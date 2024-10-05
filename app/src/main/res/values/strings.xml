@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">UCL Top Scorers</string>
+    <string name="btn_share">Share</string>
+    <string name="about">About</string>
+    <string name="myName">Mohammad Rizki Maulana</string>
+    <string name="myEmail">sijond34@gmail.com</string>
+    <string name="desc_img_topscore">img topscore</string>
+
+    <string-array name="top_scorers_name">
+        <item>Cristiano Ronaldo</item>
+        <item>Lionel Messi</item>
+        <item>Robert Lewandowski</item>
+        <item>Karim Benzema</item>
+        <item>Raul Gonzalez</item>
+        <item>Ruud Van Nistelrooy</item>
+        <item>Thomas Muller</item>
+        <item>Thierry Henry</item>
+        <item>Kylian Mbappe</item>
+        <item>Zlatan Ibrahimovic</item>
+    </string-array>
+
+    <integer-array name="top_scorers_goal">
+        <item>140</item>
+        <item>129</item>
+        <item>96</item>
+        <item>90</item>
+        <item>71</item>
+        <item>56</item>
+        <item>54</item>
+        <item>50</item>
+        <item>49</item>
+        <item>48</item>
+    </integer-array>
+
+    <string-array name="top_scorers_description">
+        <item>Cristiano Ronaldo adalah ikon terbesar dalam sejarah UEFA Champions League. Selama bermain di Manchester United, Real Madrid, dan Juventus, Ronaldo mengukuhkan dirinya sebagai pemain dengan kemampuan luar biasa untuk mencetak gol di momen-momen penting. Ia memegang rekor gol terbanyak di kompetisi ini dengan 140 gol, termasuk rekor hat-trick dan gol terbanyak di fase knock-out. Ronaldo telah memenangkan lima trofi Champions League, empat di antaranya bersama Real Madrid, termasuk tiga kali berturut-turut dari 2016 hingga 2018. Dengan kelincahan, sundulan kuat, dan kemampuan eksekusi tendangan bebas, Ronaldo telah meninggalkan warisan tak tertandingi di UCL.</item>
+        <item>Lionel Messi, legenda Barcelona dan Paris Saint-Germain, adalah pesaing utama Ronaldo dalam urusan mencetak gol di UCL. Messi mencatatkan 129 gol selama kariernya di UCL, di mana sebagian besar dicetak selama bermain untuk Barcelona. Ia dikenal karena dribel luar biasa, visi bermain, serta kemampuan mencetak gol dari jarak jauh maupun situasi set-piece. Messi juga memenangkan empat trofi Champions League bersama Barcelona, dengan salah satu musim terbaiknya adalah 2011, ketika ia mengantarkan klubnya menjadi juara setelah mengalahkan Manchester United di final. Kecepatan berpikir dan eksekusi golnya menjadikan Messi salah satu pemain terbaik sepanjang masa.</item>
+        <item>Robert Lewandowski adalah salah satu striker paling mematikan dalam sejarah sepak bola modern. Lewandowski mengumpulkan 96 gol dalam UCL bersama Borussia Dortmund, Bayern München, dan Barcelona. Dikenal karena ketenangannya di depan gawang, kemampuan sundulan, serta kemampuan mencetak gol dengan kedua kakinya, Lewandowski menjadi mesin gol yang tak tertandingi. Puncak kariernya di UCL terjadi pada musim 2019/2020, ketika ia memimpin Bayern München meraih treble, termasuk gelar Champions League. Lewandowski juga memegang rekor mencetak lima gol dalam sembilan menit di Bundesliga, memperlihatkan ketajamannya sebagai penyerang.</item>
+        <item>Karim Benzema adalah salah satu penyerang paling konsisten di UCL, mencatatkan 90 gol sepanjang kariernya. Sebagai pemain kunci di Real Madrid, Benzema memainkan peran besar dalam keberhasilan klub memenangkan empat gelar Champions League antara 2014 dan 2018. Ia dikenal dengan gaya bermainnya yang cerdas, kemampuan link-up play, serta ketajaman insting mencetak gol. Musim 2021/2022 adalah salah satu yang terbaik baginya, di mana ia memimpin Real Madrid ke gelar UCL dengan performa luar biasa di babak-babak knock-out, mencetak hat-trick melawan PSG dan Chelsea.</item>
+        <item>Raúl adalah salah satu legenda sejati Real Madrid, menghabiskan sebagian besar kariernya di klub ini dan mencetak 71 gol di UCL. Sebagai penyerang yang sangat berteknik, Raúl dikenal karena kemampuannya mencetak gol dari peluang-peluang sulit. Ia memimpin Real Madrid meraih tiga gelar UCL pada 1998, 2000, dan 2002. Selain itu, Raúl juga dikenal karena dedikasi dan kepemimpinannya di lapangan, yang membuatnya menjadi panutan bagi banyak pemain muda di generasinya.</item>
+        <item>Van Nistelrooy adalah salah satu striker paling produktif dalam sejarah UCL, mencetak 56 gol selama membela PSV Eindhoven, Manchester United, dan Real Madrid. Ia dikenal dengan insting mencetak gol yang luar biasa di dalam kotak penalti, selalu berada di tempat yang tepat pada saat yang tepat. Selama kariernya, ia tidak pernah memenangkan gelar Champions League, namun terus menjadi ancaman utama bagi pertahanan lawan. Van Nistelrooy adalah pemain yang sangat fokus pada tugas utamanya: mencetak gol, dan ia melakukannya dengan konsistensi yang mengesankan.</item>
+        <item>Thomas Müller adalah pemain serba bisa yang unik dalam sepak bola Eropa. Dengan 54 gol di UCL, Müller tidak hanya dikenal karena jumlah golnya, tetapi juga karena perannya sebagai "raumdeuter" atau pengatur ruang. Kemampuannya menemukan celah di pertahanan lawan menjadikannya sangat berbahaya di kotak penalti. Müller memainkan peran kunci dalam kemenangan Bayern München di UCL pada 2013 dan 2020. Meskipun bukan penyerang tengah murni, kontribusinya dalam mencetak gol dan assist di laga-laga penting membuatnya menjadi aset berharga bagi Bayern.</item>
+        <item>Thierry Henry adalah salah satu striker terhebat yang pernah ada, mencetak 50 gol di UCL selama kariernya bersama Monaco, Arsenal, dan Barcelona. Henry dikenal karena kecepatan, dribbling, serta kemampuannya mencetak gol dari situasi sulit. Meskipun ia meraih banyak kesuksesan bersama Arsenal, Henry memenangkan gelar UCL bersama Barcelona pada 2009, melengkapi kariernya yang luar biasa. Selain itu, ia merupakan salah satu pencetak gol paling elegan dan efektif di eranya.</item>
+        <item>Kylian Mbappé adalah salah satu talenta terbesar dalam sepak bola modern. Meskipun usianya masih muda, Mbappé sudah mencetak 49 gol di UCL bersama Monaco, Paris Saint-Germain, dan Real Madrid. Dikenal karena kecepatan, kelincahan, dan ketenangannya di depan gawang, Mbappé dianggap sebagai penerus alami dari pemain-pemain seperti Messi dan Ronaldo. Ia telah bermain di satu final UCL bersama PSG pada 2020, dan terus menjadi ancaman utama bagi pertahanan lawan setiap kali ia bermain di kompetisi ini.</item>
+        <item>Zlatan Ibrahimović adalah salah satu pemain paling ikonik dalam sepak bola dunia. Meskipun ia belum pernah memenangkan trofi UCL, Ibrahimović telah mencetak 48 gol di kompetisi ini untuk klub-klub seperti Ajax, Juventus, Inter Milan, Barcelona, AC Milan, Paris Saint-Germain, dan Manchester United. Dikenal dengan gaya bermain yang unik dan gol-gol spektakuler, Zlatan adalah pemain yang sulit diabaikan, baik karena kemampuannya di lapangan maupun kepribadiannya yang penuh karisma. Ibrahimović selalu menjadi ancaman di area penalti, dengan kemampuan fisik dan teknis yang luar biasa.</item>
+    </string-array>
+
+    <integer-array name="top_scorers_img">
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/messi</item>
+        <item>@drawable/lewandowski</item>
+        <item>@drawable/benzema</item>
+        <item>@drawable/raul</item>
+        <item>@drawable/rvn</item>
+        <item>@drawable/muller</item>
+        <item>@drawable/henry</item>
+        <item>@drawable/mbappe</item>
+        <item>@drawable/ibrahimovic</item>
+    </integer-array>
+</resources>

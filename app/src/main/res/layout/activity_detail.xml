@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:background="@drawable/back_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_ts_img"
+            android:layout_width="175dp"
+            android:layout_height="245dp"
+            android:layout_marginBottom="8dp"
+            android:contentDescription="@string/desc_img_topscore"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.12"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_ts_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/iv_ts_img"
+            app:layout_constraintStart_toStartOf="@+id/iv_ts_img"
+            app:layout_constraintTop_toBottomOf="@+id/iv_ts_img"
+            tools:text="Player Name" />
+
+        <TextView
+            android:id="@+id/tv_ts_goals"
+            style="@style/TvCustom.Bold.Red"
+            app:layout_constraintEnd_toEndOf="@+id/tv_ts_name"
+            app:layout_constraintStart_toStartOf="@+id/tv_ts_name"
+            app:layout_constraintTop_toBottomOf="@+id/tv_ts_name"
+            tools:text="90 Goals" />
+
+        <TextView
+            android:id="@+id/tv_ts_desc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_ts_goals"
+            tools:text="description here" />
+
+        <Button
+            android:id="@+id/action_share"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="24dp"
+            android:text="@string/btn_share"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/tv_ts_desc"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/tv_ts_desc"
+            app:layout_constraintTop_toBottomOf="@+id/tv_ts_desc"
+            app:layout_constraintVertical_bias="0.0" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
